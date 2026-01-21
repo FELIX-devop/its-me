@@ -107,7 +107,7 @@ I specialize in backend system design, REST API development, authentication syst
 
 <p align="center">
 <a href="https://www.linkedin.com/in/felixantonydev">
-  <img src="https://badgen.net/badge/FelixAntony/LinkedIn/0A66C2?icon=linkedin&labelColor=0A66C2"/>
+  <img src="https://img.shields.io/static/v1?label=&message=FelixAntony&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
   <a href="https://github.com/Felix-Devop">
     <img src="https://img.shields.io/static/v1?label=&message=Felix--Devop&color=181717&style=for-the-badge&logo=github&logoColor=white"/>
@@ -116,7 +116,7 @@ I specialize in backend system design, REST API development, authentication syst
     <img src="https://img.shields.io/static/v1?label=&message=felixantonyoffcl@gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://portfolio-5acc7.web.app/">
-  <img src="https://badgen.net/badge/Portfolio/Website/7C3AED?icon=globe&labelColor=7C3AED"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=14B8A6&style=for-the-badge&logo=web&logoColor=white"/>
 </a>
 </p>
 
