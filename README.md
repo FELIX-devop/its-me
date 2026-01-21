@@ -116,8 +116,8 @@ I specialize in backend system design, REST API development, authentication syst
     <img src="https://img.shields.io/static/v1?label=&message=felixantonyoffcl@gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://portfolio-5acc7.web.app/">
-    <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=36BCF7&style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <img src="https://badgen.net/badge/Portfolio/Website/7C3AED?icon=globe&labelColor=7C3AED"/>
+</a>
 </p>
 
 ---
