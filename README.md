@@ -21,37 +21,26 @@
 
 ---
 
-## 👨‍💻 About Me
+## Hi there 👋 It's me Felix Antony  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:36BCF7&height=3" />
-</p>
+Java Full Stack Developer  
 
-> 🚀 **Java Full Stack Developer** focused on building **scalable, secure, and high-performance web applications**.
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I design clean backend architectures, develop reliable RESTful APIs, and integrate modern frontend technologies to deliver production-ready solutions that solve real-world problems.
+- 🔭 Here's my [portfolio](https://portfolio-5acc7.web.app/)                                                 
+- 🌱 I’m currently learning **System Design, DSA**, and integrating **AI into web applications**
+- 👨‍💻 Engineering scalable applications using **Spring Boot, React, MongoDB & Neo4j**
+- 🔐 Passionate about **clean architecture, secure APIs, and performance optimization**
+- ⚡ Fact: I believe *skills matter more than marks.*
 
----
+### 🌐 Social Presence  
 
-### ✨ Specialization
-
-- ⚙️ Backend system design & REST API development  
-- 🔐 Authentication & authorization with Spring Security & JWT  
-- ⚛️ Frontend integration using React  
-- 🧠 Clean architecture, performance tuning & best practices  
-
----
-
-💡 I strongly believe in **clean code, reusable design, and continuous improvement**.  
-I enjoy transforming ideas into **efficient, maintainable, and scalable software systems** that create real impact.
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&size=16&pause=2000&lines=Code+with+clarity+%7C+Build+with+purpose+%7C+Learn+continuously" />
-</p>
-
----
+<br /> 
+[<img src="https://img.shields.io/badge/LinkedIn-FelixAntony-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/felixantonydev) 
+<br /> 
+[<img src="https://img.shields.io/badge/GitHub-Felix--Devop-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Felix-Devop) 
+<br/> 
+[<img src="https://img.shields.io/badge/Gmail-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:felixantonyoffcl@gmail.com)
 
 ## ⚡ Tech Stack
 
