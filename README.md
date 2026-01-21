@@ -17,7 +17,7 @@
 
 Java Full Stack Developer  
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 🔭 Here's my [portfolio](https://portfolio-5acc7.web.app/)                                                 
 - 🌱 I’m currently learning **System Design, DSA**, and integrating **AI into web applications**
