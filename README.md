@@ -1,6 +1,3 @@
-<table align="center" width="100%">
-<tr>
-<td align="center">
 
 
 
@@ -146,6 +143,3 @@ Java Full Stack Developer
 
 
 
-</td>
-</tr>
-</table>
