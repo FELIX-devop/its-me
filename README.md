@@ -102,7 +102,7 @@ I specialize in backend system design, REST API development, authentication syst
 ---
 
 
-<## 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felixantonydev">
