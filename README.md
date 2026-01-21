@@ -107,7 +107,7 @@ I specialize in backend system design, REST API development, authentication syst
 
 <p align="center">
 <a href="https://www.linkedin.com/in/felixantonydev">
-  <img src="https://img.shields.io/badge/FelixAntony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  <img src="https://badgen.net/badge/FelixAntony/LinkedIn/0A66C2?icon=linkedin&labelColor=0A66C2"/>
 </a>
   <a href="https://github.com/Felix-Devop">
     <img src="https://img.shields.io/static/v1?label=&message=Felix--Devop&color=181717&style=for-the-badge&logo=github&logoColor=white"/>
