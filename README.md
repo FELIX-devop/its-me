@@ -15,13 +15,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=20&pause=1200&lines=Java+Full+Stack+Developer;Building+Scalable+Web+Applications;Clean+Architecture+%7C+Secure+APIs;Continuous+Learner+%26+Problem+Solver" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:36BCF7&height=3&section=header" />
 </p>
-
+## About Me ! 😎
 > 🚀 **Java Full Stack Developer** passionate about building **scalable, secure, and high-performance web applications**.
 
 ✨ I specialize in:
