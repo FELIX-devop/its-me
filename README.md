@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1E3A8A,100:020617&height=200&section=header&text=Felix%20Antony&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing with subtle background -->
+<!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&size=22&pause=1200&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Neo4j;Building+Scalable+Web+Systems;Clean+Code+%7C+Secure+APIs" 
-       style="background: linear-gradient(90deg,#36BCF7,#1E3A8A,#020617); padding: 6px 16px; border-radius: 6px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=22&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Neo4j;Building+Scalable+Web+Systems;Clean+Code+%7C+Secure+APIs" />
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
