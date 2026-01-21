@@ -121,25 +121,6 @@ Java Full Stack Developer
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/felixantonydev">
-  <img src="https://img.shields.io/static/v1?label=&message=FelixAntony&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Felix-Devop">
-  <img src="https://img.shields.io/static/v1?label=&message=Felix--Devop&color=181717&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:felixantonyoffcl@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=&message=felixantonyoffcl@gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://portfolio-5acc7.web.app/">
-  <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=14B8A6&style=for-the-badge&logo=web&logoColor=white"/>
-</a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:36BCF7&height=120&section=footer"/>
 </p>
