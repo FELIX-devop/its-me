@@ -3,9 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1E3A8A,100:020617&height=200&section=header&text=Felix%20Antony&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- Typing -->
+<!-- Subtitle Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=22&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Neo4j;Building+Scalable+Web+Systems;Clean+Code+%7C+Secure+APIs" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,50:1E3A8A,100:020617&height=70&section=header&text=Java%20Full%20Stack%20Developer&fontSize=22&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=20&pause=1000&lines=Spring+Boot+%7C+React+%7C+Neo4j;Building+Scalable+Web+Systems;Clean+Code+%7C+Secure+APIs" />
 </p>
 
 <p align="center">
