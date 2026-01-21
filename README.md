@@ -145,5 +145,5 @@ I enjoy transforming ideas into **efficient, maintainable, and scalable software
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:36BCF7&height=160&section=footer&text=Marks%20matter%20illa%20%7C%20Skills%20thaan%20matter&fontSize=26&fontColor=36BCF7&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:36BCF7&height=120&section=footer"/>
 </p>
