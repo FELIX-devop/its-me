@@ -106,16 +106,16 @@ I specialize in backend system design, REST API development, authentication syst
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felixantonydev">
-    <img src="https://img.shields.io/badge/FelixAntony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-FelixAntony?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/>
   </a>
   <a href="https://github.com/Felix-Devop">
-    <img src="https://img.shields.io/badge/Felix--Devop-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Felix--Devop?style=for-the-badge&logo=github&logoColor=white&color=181717"/>
   </a>
   <a href="mailto:felixantonyoffcl@gmail.com">
-    <img src="https://img.shields.io/badge/felixantonyoffcl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-felixantonyoffcl%40gmail.com?style=for-the-badge&logo=gmail&logoColor=white&color=D14836"/>
   </a>
   <a href="https://portfolio-5acc7.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Portfolio?style=for-the-badge&logo=google-chrome&logoColor=white&color=36BCF7"/>
   </a>
 </p>
 
