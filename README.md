@@ -14,21 +14,29 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:36BCF7&height=3&section=header" />
-</p>
-## About Me ! 😎
-> 🚀 **Java Full Stack Developer** passionate about building **scalable, secure, and high-performance web applications**.
+## 👨‍💻 About Me
 
-✨ I specialize in:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:36BCF7&height=3" />
+</p>
+
+> 🚀 **Java Full Stack Developer** focused on building **scalable, secure, and high-performance web applications**.
+
+I design clean backend architectures, develop reliable RESTful APIs, and integrate modern frontend technologies to deliver production-ready solutions that solve real-world problems.
+
+---
+
+### ✨ Specialization
 
 - ⚙️ Backend system design & REST API development  
-- 🔐 Authentication & security implementations  
-- ⚛️ Modern frontend integration with React  
-- 🧠 Clean architecture & performance optimization  
+- 🔐 Authentication & authorization with Spring Security & JWT  
+- ⚛️ Frontend integration using React  
+- 🧠 Clean architecture, performance tuning & best practices  
 
-💡 I believe in **clean code, reusable design, and continuous learning**.  
-I enjoy converting ideas into **production-ready software systems**.
+---
+
+💡 I strongly believe in **clean code, reusable design, and continuous improvement**.  
+I enjoy transforming ideas into **efficient, maintainable, and scalable software systems** that create real impact.
 
 ---
 
@@ -89,7 +97,7 @@ I enjoy converting ideas into **production-ready software systems**.
 
 ---
 
-## 📊 GitHub Stats (Realtime)
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Felix-Devop&show_icons=true&theme=radical"/>
@@ -117,21 +125,19 @@ I enjoy converting ideas into **production-ready software systems**.
 
 ---
 
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/felixantonydev">
   <img src="https://img.shields.io/static/v1?label=&message=FelixAntony&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-  <a href="https://github.com/Felix-Devop">
-    <img src="https://img.shields.io/static/v1?label=&message=Felix--Devop&color=181717&style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:felixantonyoffcl@gmail.com">
-    <img src="https://img.shields.io/static/v1?label=&message=felixantonyoffcl@gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-5acc7.web.app/">
+<a href="https://github.com/Felix-Devop">
+  <img src="https://img.shields.io/static/v1?label=&message=Felix--Devop&color=181717&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:felixantonyoffcl@gmail.com">
+  <img src="https://img.shields.io/static/v1?label=&message=felixantonyoffcl@gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://portfolio-5acc7.web.app/">
   <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=14B8A6&style=for-the-badge&logo=web&logoColor=white"/>
 </a>
 </p>
