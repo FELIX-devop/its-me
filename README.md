@@ -14,11 +14,31 @@
 
 ---
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=20&pause=1200&lines=Java+Full+Stack+Developer;Building+Scalable+Web+Applications;Clean+Architecture+%7C+Secure+APIs;Continuous+Learner+%26+Problem+Solver" />
+</p>
 
-I am **Felix Antony**, a passionate **Java Full-Stack Developer** focused on building scalable, secure, and high-performance web applications.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:36BCF7&height=3&section=header" />
+</p>
 
-I specialize in backend system design, REST API development, authentication systems, and modern frontend integration using React. I enjoy optimizing performance, writing clean architecture code, and continuously upgrading my technical depth through real-world projects and internships.
+> 🚀 **Java Full Stack Developer** passionate about building **scalable, secure, and high-performance web applications**.
+
+✨ I specialize in:
+
+- ⚙️ Backend system design & REST API development  
+- 🔐 Authentication & security implementations  
+- ⚛️ Modern frontend integration with React  
+- 🧠 Clean architecture & performance optimization  
+
+💡 I believe in **clean code, reusable design, and continuous learning**.  
+I enjoy converting ideas into **production-ready software systems**.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&size=16&pause=2000&lines=Code+with+clarity+%7C+Build+with+purpose+%7C+Learn+continuously" />
+</p>
 
 ---
 
