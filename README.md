@@ -104,19 +104,20 @@ I specialize in backend system design, REST API development, authentication syst
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/felixantonydev">
-<img src="https://img.shields.io/badge/LinkedIn-FelixAntony-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/Felix-Devop">
-<img src="https://img.shields.io/badge/GitHub-Felix--Devop-black?style=for-the-badge&logo=github"/>
-</a>
-<a href="mailto:felixantonyoffcl@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://portfolio-5acc7.web.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge"/>
-</a>
+  <a href="https://www.linkedin.com/in/felixantonydev">
+    <img src="https://img.shields.io/badge/LinkedIn-FelixAntony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Felix-Devop">
+    <img src="https://img.shields.io/badge/GitHub-Felix--Devop-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:felixantonyoffcl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-5acc7.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
