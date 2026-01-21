@@ -1,162 +1,77 @@
-<table align="center" width="100%">
-<tr>
-<td align="center">
+## Hi there 👋 It's me Felix Antony  
 
+**Java Full Stack Developer | Spring Boot | React | Neo4j**
 
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1E3A8A,100:020617&height=200&section=header&text=Felix%20Antony&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&size=22&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Neo4j;Building+Scalable+Web+Systems;Clean+Code+%7C+Secure+APIs" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+- 🔭 Here's my [Portfolio](https://portfolio-5acc7.web.app/)  
+- 🌱 Currently improving my skills in **System Design, DSA, and Scalable Backend Architecture**  
+- 💼 Passionate about building **secure, high-performance web applications**  
+- 🧠 Interested in **AI integration with web systems**  
+- ⚡ Fun fact: I believe *skills matter more than marks*  
 
 ---
 
-## 👨‍💻 About Me
+### 🌐 Social Presence  
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E3A8A,100:36BCF7&height=3" />
-</p>
+<br/>
 
-> 🚀 **Java Full Stack Developer** focused on building **scalable, secure, and high-performance web applications**.
-
-I design clean backend architectures, develop reliable RESTful APIs, and integrate modern frontend technologies to deliver production-ready solutions that solve real-world problems.
-
----
-
-### ✨ Specialization
-
-- ⚙️ Backend system design & REST API development  
-- 🔐 Authentication & authorization with Spring Security & JWT  
-- ⚛️ Frontend integration using React  
-- 🧠 Clean architecture, performance tuning & best practices  
+[<img src="https://img.shields.io/badge/LinkedIn-FelixAntony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/felixantonydev)  
+<br/>
+[<img src="https://img.shields.io/badge/GitHub-Felix--Devop-181717?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Felix-Devop)  
+<br/>
+[<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:felixantonyoffcl@gmail.com)  
 
 ---
 
-💡 I strongly believe in **clean code, reusable design, and continuous improvement**.  
-I enjoy transforming ideas into **efficient, maintainable, and scalable software systems** that create real impact.
+### 🚀 I Code In  
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/spring-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/postgreesql.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/graphql.png"/> 
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7C3AED&center=true&vCenter=true&size=16&pause=2000&lines=Code+with+clarity+%7C+Build+with+purpose+%7C+Learn+continuously" />
-</p>
+### 🛠 IDE & Tools I Use  
+
+<img height="50" width="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/intellij-idea.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/50/git.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/docker.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/postman.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/swagger.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/notion--v1.png"/>  
 
 ---
 
-## ⚡ Tech Stack
+### 💻 Workspace Spec  
 
-### 💻 Languages
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
-### 🌐 Frontend
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### ⚙ Backend
-<p>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
-</p>
-
-### 🗄 Databases
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🛠 Tools
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</p>
+<img height="30" src="https://img.shields.io/badge/MacBook-M1-000000?style=for-the-badge&logo=apple&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/NVIDIA-GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
 
 ---
 
-## 📦 Projects
+### 📊 GitHub Stats  
 
-🔹 **Skill Intelligence** – Spring Boot, Neo4j, JWT  
-🔹 **Maze The Ace** – Spring Boot, React, PostgreSQL, Twilio  
-🔹 **DREACON** – React, Spring Boot, MongoDB, ML API  
-🔹 **HabitFlow** – SaaS Habit Tracker (Ongoing)
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-Devop&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ---
 
-## 📊 GitHub Stats
+### 🧠 LeetCode  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Felix-Devop&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Felix-Devop&theme=radical"/>
-</p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/FelixDevop?ext=contest&theme=dark)](https://leetcode.com/)
 
 ---
 
-## 🔥 Most Used Languages
+### 📈 GitHub Activity  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Devop&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felix-Devop&theme=react-dark"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/felixantonydev">
-  <img src="https://img.shields.io/static/v1?label=&message=FelixAntony&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Felix-Devop">
-  <img src="https://img.shields.io/static/v1?label=&message=Felix--Devop&color=181717&style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:felixantonyoffcl@gmail.com">
-  <img src="https://img.shields.io/static/v1?label=&message=felixantonyoffcl@gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://portfolio-5acc7.web.app/">
-  <img src="https://img.shields.io/static/v1?label=&message=Portfolio&color=14B8A6&style=for-the-badge&logo=web&logoColor=white"/>
-</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:36BCF7&height=120&section=footer"/>
-</p>
-
-
-
-</td>
-</tr>
-</table>
+[![Felix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felix-Devop&bg_color=000000&color=ffffff&line=36BCF7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
