@@ -106,12 +106,8 @@ I specialize in backend system design, REST API development, authentication syst
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felixantonydev">
-<svg width="230" height="40" viewBox="0 0 230 40" xmlns="http://www.w3.org/2000/svg">
-  <rect width="230" height="40" rx="6" fill="#0A66C2"/>
-  <image href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" x="12" y="10" width="20" height="20" fill="white"/>
-  <text x="45" y="26" fill="white" font-size="16" font-family="Arial, Helvetica, sans-serif" font-weight="bold">FelixAntony</text>
-</svg>
+<a href="https://www.linkedin.com/in/felixantonydev">
+  <img src="https://img.shields.io/badge/FelixAntony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
   <a href="https://github.com/Felix-Devop">
     <img src="https://img.shields.io/static/v1?label=&message=Felix--Devop&color=181717&style=for-the-badge&logo=github&logoColor=white"/>
