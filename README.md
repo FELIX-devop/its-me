@@ -25,6 +25,18 @@ Java Full Stack Developer
 - 🔐 Passionate about **clean architecture, secure APIs, and performance optimization**
 - ⚡ Fact: I believe *skills matter more than marks.*
 
+
+### 🏢 Worked At  
+
+<p>
+  <a href="https://skillfirstlabs.com" target="_blank">
+    <img src="https://www.google.com/s2/favicons?domain=skillfirstlabs.com&sz=64" height="28"/>
+  </a>
+  <b>SkillFirstLabs</b> — Full Stack Development Intern
+</p>
+
+
+
 ### 🌐 Social Presence  
 
 
@@ -120,18 +132,5 @@ Java Full Stack Developer
 </p>
 
 ---
-
-### 🏢 Experience  
-
-<p>
-  <a href="https://skillfirstlabs.com" target="_blank">
-    <img src="https://www.google.com/s2/favicons?domain=skillfirstlabs.com&sz=64" height="28"/>
-  </a>
-  <b>SkillFirstLabs</b> – Full Stack Development Intern / Trainee  
-</p>
-
-- 🚀 Worked on real-world web application projects  
-- ⚙️ Built features using Spring Boot, React, and databases  
-- 🧠 Improved problem-solving, API design, and system understanding  
 
 
