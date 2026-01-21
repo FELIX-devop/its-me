@@ -121,9 +121,5 @@ Java Full Stack Developer
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1E3A8A,100:36BCF7&height=120&section=footer"/>
-</p>
-
 
 
