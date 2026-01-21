@@ -111,7 +111,7 @@ I specialize in backend system design, REST API development, authentication syst
     <img src="https://img.shields.io/badge/GitHub-Felix--Devop-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:felixantonyoffcl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-felixantonyoffcl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://portfolio-5acc7.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
